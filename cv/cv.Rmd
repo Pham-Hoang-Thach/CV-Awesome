@@ -145,7 +145,7 @@ industry %>%
 <!-- **2023** -->
 
 <!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.** (2023). *Stock Selection for Trading Strategies Based on Risk Factors: A Study of The Ho Chi Minh Stock Exchange*. [PhD Thesis, Victoria University, Melbourne].
+**Pham, T.H.** (2023). *Stock Selection for Trading Strategies Based on Risk Factors: A Study of The Ho Chi Minh Stock Exchange*. [PhD Thesis, Victoria University, Melbourne, Australia].
 
 <!--\setlength{\leftskip}{1cm}-->
 Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2022). *Quản lý danh mục đầu tư*. Tài liệu học tập. Đại học Mở Tp.HCM. 
@@ -160,10 +160,10 @@ Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2022). *Quản lý d
 **Pham, T.H.**, Wickremasinghe, G.(2019). *A study of stock returns on the Ho Chi Minh Stock Exchange using ANOVA and multiple regressions.* Working Paper.
 
 <!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.** (2018). *An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange.* [Year 1 Thesis, Victoria University, Melbourne]. 
+**Pham, T.H.** (2018). *An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange.* [Year 1 Thesis, Victoria University, Melbourne, Australia]. 
 
 <!--\setlength{\leftskip}{1cm}-->
 **Phạm Hoàng Thạch**, Dương Quỳnh Nga (2018). *Quản lý danh mục đầu tư*. Slides bài giảng và video hướng dẫn môn học trực tuyến. Đại học Mở Tp.HCM. 
 
 <!--\setlength{\leftskip}{1cm}-->
-**Phạm Hoàng Thạch** (2006). *Xác định các ngành công nghiệp chủ lực của tỉnh Long An* [Luận văn đại học, Đại học Kinh tế Tp.HCM]. 
+**Phạm Hoàng Thạch** (2006). *Xác định các ngành công nghiệp chủ lực của tỉnh Long An* [Luận văn đại học, Đại học Kinh tế Tp.HCM, Tp.HCM, Việt Nam]. 
