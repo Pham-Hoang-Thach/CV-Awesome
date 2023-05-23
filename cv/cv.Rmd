@@ -157,7 +157,7 @@ Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2022). *Quản lý d
 **Pham, T.H.**, Wickremasinghe, G., Kulendran, N. (2022). *An empirical study of multifactor asset pricing models on the Ho Chi Minh Stock Exchange (HSX) in Vietnam.* Working Paper.
 
 <!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Wickremasinghe, G.(2019). *A study of stock returns on the Ho Chi Minh Stock Exchange using ANOVA and multiple regressions.* Working Paper.
+**Pham, T.H.** (2019). *A study of stock returns on the Ho Chi Minh Stock Exchange using ANOVA and multiple regressions.* Working Paper.
 
 <!--\setlength{\leftskip}{1cm}-->
 **Pham, T.H.** (2018). *An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange.* [Year 1 Thesis, Victoria University, Melbourne, Australia]. 
