@@ -72,7 +72,7 @@ education %>%
                    why = details)
 ```
 
-# Achiements
+# Achievements
 
 ```{r}
 library(tibble)
