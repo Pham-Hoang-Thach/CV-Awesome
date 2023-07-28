@@ -3,13 +3,13 @@ name: Thach H.
 surname: Pham
 position: PhD, Asset Pricing
 profilepic: "thach-vic.jpg"
-headcolor: 414141
+#headcolor: 414141
 address: |
-  | Lecturer, Faculty of Finance & Banking, HCMC Open University, Vietnam
-#phone: +1 22 3333 4444
+  | Faculty of Finance & Banking, HCMC Open University, Vietnam
+#phone: 
 www: thachpham.wordpress.com
 email: "phamhoangthach@gmail.com"
-#twitter: mariecurie
+#twitter: 
 github: pham-hoang-thach
 linkedin: phamhoangthach
 aboutme: "I like collaborative environments where I can learn from my peers. I have worked in a variety of roles ranging from financial  and data analyst to investment officer to researcher and lecturer. I am passionate about education and I believe that none of subject is too complex if the teacher is empathetic and willing to think of new approaches. In my PhD thesis, I have developed a framework for stock selection strategies based on mispricing and smart betas. This framework not only helps in explaining stock returns but also in evaluating the efficiency of stock markets and trading strategies. I am using Linux and free and open-source softwares. I prefer literate programming, reproducible research, and plain text."
@@ -72,13 +72,25 @@ education %>%
                    why = details)
 ```
 
+# Training
+
+```{r}
+training %>% 
+  detailed_entries(what = degree,
+                   when = year,
+                   with = institution,
+                   where = where,
+                   why = details)
+```
+
 # Achievements
 
 ```{r}
 library(tibble)
 tribble(
   ~Year, ~Type, ~Desc,
-  "2018-2021", "911 Scholarship (Tuition and Stipend), VIED, Vietnam", "Sponsored for PhD study at Victoria University, Melbourne, Australia.",
+  "2018–2021", "VIED Scholarship (Tuition and Stipend, Coded 911)", "Sponsored for PhD study at Victoria University, Melbourne, Australia.",
+  "", "", "",
   "2020", "Top 15% highest achieving students, Victoria University", "Awarded for the outstanding academic achievements."
 ) %>% 
   brief_entries(
@@ -94,6 +106,7 @@ tribble(
   * Data Wrangling and Visualisation
   * Statistical and Financial Modeling
   * Programming
+  * Version Control
   * Reporting and Writing
   * Personal Knowledge Management and Personal Productivity
 
@@ -107,7 +120,18 @@ tribble(
 \end{tabularx}
 \end{table}
 
-# Teaching & Research Experience
+# Teaching
+
+```{r}
+teaching %>% 
+  detailed_entries(what = role,
+                   when = dates,
+                   with = institution,
+                   where = where,
+                   why = details)
+```
+
+# Research Experience
 
 ```{r}
 research %>% 
