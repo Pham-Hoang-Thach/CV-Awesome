@@ -89,9 +89,13 @@ training %>%
 library(tibble)
 tribble(
   ~Year, ~Type, ~Desc,
-  "2018–2021", "VIED Scholarship (Tuition and Stipend, Coded 911)", "Sponsored for PhD study at Victoria University, Melbourne, Australia.",
+  "2018–2020", "Joint Victoria University and Vietnam International Education Development PhD Scholarship (VIED, 911)", "Tuition and Stipend Sponsorship",
   "", "", "",
-  "2020", "Top 15% highest achieving students, Victoria University", "Awarded for the outstanding academic achievements."
+  "2020", "Top 15% highest achieving students, Victoria University", "Awarded for the outstanding academic achievements.",
+  "", "", "",
+  "2021", "Victoria University PhD Scholarship", "Tuition and Stipend Sponsorship",
+  "", "", "",
+  "2023", "Excellent PhD Thesis", "Awarded for the outstanding academic achievements.",
 ) %>% 
   brief_entries(
     glue::glue("{Type}"),
@@ -103,10 +107,11 @@ tribble(
 # Skills
 
   * Presentation, Research and Teaching
-  * Data Wrangling and Visualisation
+  * Data Wrangling and Visualization
   * Statistical and Financial Modeling
   * Programming
   * Version Control
+  * Linux and Open Source Software
   * Reporting and Writing
   * Personal Knowledge Management and Personal Productivity
 
