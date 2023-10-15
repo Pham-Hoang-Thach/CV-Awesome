@@ -91,11 +91,11 @@ tribble(
   ~Year, ~Type, ~Desc,
   "2018–2020", "Joint Victoria University and Vietnam International Education Development PhD Scholarship (VIED, 911)", "Tuition and Stipend Sponsorship",
   "", "", "",
-  "2020", "Top 15% highest achieving students, Victoria University", "Awarded for the outstanding academic achievements.",
+  "2020", "Top 15% highest achieving students, Victoria University", "Awarded for the outstanding academic achievements",
   "", "", "",
   "2021", "Victoria University PhD Scholarship", "Tuition and Stipend Sponsorship",
   "", "", "",
-  "2023", "Excellent PhD Thesis", "Awarded for the outstanding academic achievements.",
+  "2023", "Excellent PhD Thesis", "Awarded for the outstanding academic achievements",
 ) %>% 
   brief_entries(
     glue::glue("{Type}"),
