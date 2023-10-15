@@ -76,7 +76,7 @@ education %>%
 
 ```{r}
 training %>% 
-  detailed_entries(what = degree,
+  detailed_entries(what = training,
                    when = year,
                    with = institution,
                    where = where,
