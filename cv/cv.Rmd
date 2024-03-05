@@ -174,7 +174,7 @@ industry %>%
 <!-- **2023** -->
 
 <!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Phan, T.M.H. (2023). *Trading Stategies in the Ho Chi Minh Stock Exchange*. The 5^th^ International Conference on Busines (ICB).
+**Pham, T.H.**, Phan, H.T.M. (2023). *Trading Stategies in the Ho Chi Minh Stock Exchange*. The 5^th^ International Conference on Busines (ICB).
 
 <!--\setlength{\leftskip}{1cm}-->
 Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2023). *Quản lý danh mục đầu tư (HC)*. Tài liệu học tập. Đại học Mở Tp.HCM.
