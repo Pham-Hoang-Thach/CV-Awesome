@@ -191,7 +191,7 @@ industry2 %>%
 **Phạm Hoàng Thạch** (2025). *Đo lường thị trường hiệu quả qua các mô hình nhân tố—Nghiên cứu thực nghiệm tại Sở Giao Dịch Chứng Khoán Thành phố Hồ Chí Minh*. HCMCOUJS-Kinh Tế và Quản Trị Kinh Doanh, 20(1), 69–81.
 
 <!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Phan, T.M.H. (2024). *Trading Stategies in the Ho Chi Minh Stock Exchange*. In Disruptive Technology and Business Continuity: Proceedings of The 5th International Conference on Business (ICB 2023) (pp. 297–311). Springer Nature. 
+**Pham, T.H.**, Phan, T.M.H. (2024). *Trading Stategies in the Ho Chi Minh Stock Exchange*. In Disruptive Technology and Business Continuity: Proceedings of The 5^th^ International Conference on Business (ICB 2023) (pp. 297–311). Springer Nature. 
 
 <!--\setlength{\leftskip}{1cm}-->
 **Phạm Hoàng Thạch** (2024). *Bước Đi Ngẫu Nhiên: Mô Phỏng Và Kiểm Tra Thị Trường Hiệu Quả Với R*. Hội thảo Ngành Tài Chính - Ngân hàng Việt Nam: Vượt thách thức, vững bước tiến, Khoa TC-NH, Đại học Mở TPHCM.
