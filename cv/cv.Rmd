@@ -2,8 +2,7 @@
 name: Thach H.
 surname: Pham
 position: PhD, Asset Pricing
-profilepic: "thach-vic.jpg"
-#headcolor: 414141
+headcolor: 1976D2
 address: |
   | Faculty of Finance & Banking, HCMC Open University, Vietnam
 #phone: 
