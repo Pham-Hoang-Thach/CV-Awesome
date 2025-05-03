@@ -12,7 +12,7 @@ email: "phamhoangthach@gmail.com"
 #twitter: 
 github: pham-hoang-thach
 linkedin: phamhoangthach
-aboutme: "I like collaborative environments where I can learn from my peers. I have worked in a variety of roles ranging from financial  and data analyst to investment officer to researcher and lecturer. I am passionate about education and I believe that none of subject is too complex if the teacher is empathetic and willing to think of new approaches. In my PhD thesis, I have developed a framework for stock selection strategies based on mispricing and smart betas. This framework not only helps in explaining stock returns but also in evaluating the efficiency of stock markets and the performance of trading strategies. I am using Linux and free and open-source softwares. I prefer literate programming, reproducible research, and plain text."
+aboutme: "I like collaborative environments where I can learn from my peers. I have worked in a variety of roles ranging from financial  and data analyst to investment officer to researcher and lecturer. I am passionate about education and I believe that none of subject is too complex if the teacher is empathetic and willing to think of new approaches. In my PhD thesis, I have developed a framework for stock selection strategies based on mispricing and smart betas. This framework not only helps in explaining stock returns but also in evaluating the efficiency of stock markets and the performance of trading strategies. I love Linux and free and open-source software. I prefer literate programming, reproducible research, and plain text."
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
@@ -145,13 +145,6 @@ research %>%
                    with = institution,
                    where = where,
                    why = details)
-
-research2 %>% 
-  detailed_entries(what = role,
-                   when = dates,
-                   with = institution,
-                   where = where,
-                   why = details)
 ```
 
 
@@ -164,15 +157,15 @@ industry %>%
                    with = institution,
                    where = where,
                    why = details)
-
-industry2 %>% 
-  detailed_entries(what = role,
-                   when = dates,
-                   with = institution,
-                   where = where,
-                   why = details)
 ```
 
+# Software
+
+\noindent \textbf{Pham, T.H.} (2025). \textit{MCQ Balance Engine}. GitHub.  
+\url{https://github.com/Pham-Hoang-Thach/mcq-balance-engine.git}
+
+\noindent \textbf{Pham, T.H.} (2023). \textit{Emacs Configuration for Literate Programming}. GitHub.  
+\url{https://github.com/Pham-Hoang-Thach/.emacs.d.git}
 
 # Publications
 
@@ -186,6 +179,9 @@ industry2 %>%
 
 <!-- \setlength{\leftskip}{0cm} -->
 <!-- **2023** -->
+
+<!--\setlength{\leftskip}{1cm}-->
+Võ Minh Long, Lê Ngọc Yến Ngân, **Phạm Hoàng Thạch** (2025). *Tác động của giới hạn tài chính đến nắm giữ tiền mặt của các doanh nghiệp phi tài chính*. Tạp chí Kinh Tế và Ngân Hàng Châu Á, 228, 71-85.
 
 <!--\setlength{\leftskip}{1cm}-->
 **Phạm Hoàng Thạch** (2025). *Đo lường thị trường hiệu quả qua các mô hình nhân tố—Nghiên cứu thực nghiệm tại Sở Giao Dịch Chứng Khoán Thành phố Hồ Chí Minh*. HCMCOUJS-Kinh Tế và Quản Trị Kinh Doanh, 20(1), 69–81.
