@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.3)  4 MAY 2025 00:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.3)  4 MAY 2025 18:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -819,79 +819,79 @@ Overfull \hbox (1.45999pt too wide) in paragraph at lines 107--107
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 124.
+(Font)              scaled to size 16.0pt on input line 126.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 16.0pt on input line 124.
+(Font)              scaled to size 16.0pt on input line 126.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 127.
+(Font)              scaled to size 10.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 127.
+(Font)              scaled to size 10.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 127.
+(Font)              scaled to size 9.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 127.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 127.
+(Font)              scaled to size 9.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 127.
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 127.
+(Font)              scaled to size 8.0pt on input line 129.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 146.
+(Font)              scaled to size 9.0pt on input line 148.
 
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 155.
+(Font)              scaled to size 16.0pt on input line 157.
 [1
 
 ] (./svg-inkscape/R_svg-tex.pdf_tex) (./svg-inkscape/debian_svg-tex.pdf_tex) (./svg-inkscape/python_svg-tex.pdf_tex) (./svg-inkscape/markdown_svg-tex.pdf_tex) (./svg-inkscape/emacs_svg-tex.pdf_tex) (./svg-inkscape/unicorn_svg-tex.pdf_tex) (./svg-inkscape/latex_svg-tex.pdf_tex) (./svg-inkscape/zotero_svg-tex.pdf_tex) (./svg-inkscape/git_svg-tex.pdf_tex) (./svg-inkscape/R_svg-tex.pdf_tex) (./svg-inkscape/debian_svg-tex.pdf_tex) (./svg-inkscape/python_svg-tex.pdf_tex) (./svg-inkscape/markdown_svg-tex.pdf_tex) (./svg-inkscape/emacs_svg-tex.pdf_tex) (./svg-inkscape/unicorn_svg-tex.pdf_tex) (./svg-inkscape/latex_svg-tex.pdf_tex) (./svg-inkscape/zotero_svg-tex.pdf_tex) (./svg-inkscape/git_svg-tex.pdf_tex)
-Package svg Info: Last page of `./svg-inkscape/R_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/R_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/R_svg-tex.pdf_tex
 File: ./svg-inkscape/R_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/R_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/debian_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/debian_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/debian_svg-tex.pdf_tex
 File: ./svg-inkscape/debian_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/debian_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/python_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/python_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/python_svg-tex.pdf_tex
 File: ./svg-inkscape/python_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/python_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/markdown_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/markdown_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/markdown_svg-tex.pdf_tex
 File: ./svg-inkscape/markdown_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/markdown_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/emacs_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/emacs_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/emacs_svg-tex.pdf_tex
 File: ./svg-inkscape/emacs_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/emacs_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/unicorn_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/unicorn_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/unicorn_svg-tex.pdf_tex
 File: ./svg-inkscape/unicorn_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/unicorn_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/latex_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/latex_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/latex_svg-tex.pdf_tex
 File: ./svg-inkscape/latex_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/latex_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/zotero_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/zotero_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/zotero_svg-tex.pdf_tex
 File: ./svg-inkscape/zotero_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/zotero_svg-tex.pdf, page 1>
 )
-Package svg Info: Last page of `./svg-inkscape/git_svg-tex.pdf' is 1 on input line 184.
+Package svg Info: Last page of `./svg-inkscape/git_svg-tex.pdf' is 1 on input line 186.
 (./svg-inkscape/git_svg-tex.pdf_tex
 File: ./svg-inkscape/git_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/git_svg-tex.pdf, page 1>
@@ -899,11 +899,11 @@ File: ./svg-inkscape/git_svg-tex.pdf Graphic file (type pdf)
 
 [2]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 249.
+(Font)              scaled to size 10.95pt on input line 251.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 249.
+(Font)              scaled to size 10.95pt on input line 251.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 270.
+(Font)              scaled to size 7.665pt on input line 265.
 
 
 [3]
@@ -917,10 +917,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34292 strings out of 472265
- 701545 string characters out of 5529874
- 1271546 words of memory out of 5000000
- 60148 multiletter control sequences out of 15000+600000
+ 34293 strings out of 472265
+ 701548 string characters out of 5529874
+ 1271548 words of memory out of 5000000
+ 60149 multiletter control sequences out of 15000+600000
  631189 words of font info for 131 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  131i,17n,135p,540b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s

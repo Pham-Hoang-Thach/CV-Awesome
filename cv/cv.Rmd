@@ -23,6 +23,8 @@ header-includes:
    - \usepackage{tabularx}
 ---
 
+\newcommand{\apa}[1]{\noindent\hangindent=0.5in\hangafter=1 #1}
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 options(tinytex.engine_args = '--shell-escape')
@@ -161,10 +163,10 @@ industry %>%
 
 # Software
 
-\noindent \textbf{Pham, T.H.} (2025). \textit{MCQ Balance Engine}. GitHub.  
+\apa{\textbf{Pham, T.H.} (2025). \textit{MCQ Balance Engine}}. GitHub.  
 \url{https://github.com/Pham-Hoang-Thach/mcq-balance-engine.git}
 
-\noindent \textbf{Pham, T.H.} (2023). \textit{Emacs Configuration for Literate Programming}. GitHub.  
+\apa{\textbf{Pham, T.H.} (2023). \textit{Emacs Configuration for Literate Programming}}. GitHub.  
 \url{https://github.com/Pham-Hoang-Thach/.emacs.d.git}
 
 # Publications
@@ -177,47 +179,30 @@ industry %>%
 #   arrange(desc(author$family), issued)
 ```
 
-<!-- \setlength{\leftskip}{0cm} -->
-<!-- **2023** -->
+\apa{Võ Minh Long, Lê Ngọc Yến Ngân, \textbf{Phạm Hoàng Thạch} (2025). \textit{Tác động của giới hạn tài chính đến nắm giữ tiền mặt của các doanh nghiệp phi tài chính}. Tạp chí Kinh Tế và Ngân Hàng Châu Á, 228, 71-85.}
 
-<!--\setlength{\leftskip}{1cm}-->
-Võ Minh Long, Lê Ngọc Yến Ngân, **Phạm Hoàng Thạch** (2025). *Tác động của giới hạn tài chính đến nắm giữ tiền mặt của các doanh nghiệp phi tài chính*. Tạp chí Kinh Tế và Ngân Hàng Châu Á, 228, 71-85.
+\apa{\textbf{Phạm Hoàng Thạch} (2025). \textit{Đo lường thị trường hiệu quả qua các mô hình nhân tố—Nghiên cứu thực nghiệm tại Sở Giao Dịch Chứng Khoán Thành phố Hồ Chí Minh}. HCMCOUJS-Kinh Tế và Quản Trị Kinh Doanh, 20(1), 69–81.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Phạm Hoàng Thạch** (2025). *Đo lường thị trường hiệu quả qua các mô hình nhân tố—Nghiên cứu thực nghiệm tại Sở Giao Dịch Chứng Khoán Thành phố Hồ Chí Minh*. HCMCOUJS-Kinh Tế và Quản Trị Kinh Doanh, 20(1), 69–81.
+\apa{\textbf{Pham, T.H.}, Phan, T.M.H. (2024). \textit{Trading Stategies in the Ho Chi Minh Stock Exchange}. In Disruptive Technology and Business Continuity: Proceedings of The 5\textsuperscript{th} International Conference on Business (ICB 2023) (pp. 297–311). Springer Nature.} 
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Phan, T.M.H. (2024). *Trading Stategies in the Ho Chi Minh Stock Exchange*. In Disruptive Technology and Business Continuity: Proceedings of The 5^th^ International Conference on Business (ICB 2023) (pp. 297–311). Springer Nature. 
+\apa{\textbf{Phạm Hoàng Thạch} (2024). \textit{Bước Đi Ngẫu Nhiên: Mô Phỏng Và Kiểm Tra Thị Trường Hiệu Quả Với R}. Hội thảo Ngành Tài Chính - Ngân hàng Việt Nam: Vượt thách thức, vững bước tiến, Khoa TC-NH, Đại học Mở TPHCM.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Phạm Hoàng Thạch** (2024). *Bước Đi Ngẫu Nhiên: Mô Phỏng Và Kiểm Tra Thị Trường Hiệu Quả Với R*. Hội thảo Ngành Tài Chính - Ngân hàng Việt Nam: Vượt thách thức, vững bước tiến, Khoa TC-NH, Đại học Mở TPHCM.
+\apa{\textbf{Pham, T.H.}, Phan, T.M.H. (2023). \textit{Trading Stategies in the Ho Chi Minh Stock Exchange}. The 5\textsuperscript{th} International Conference on Busines (ICB) [Conference Presentation].}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Phan, T.M.H. (2023). *Trading Stategies in the Ho Chi Minh Stock Exchange*. The 5^th^ International Conference on Busines (ICB) [Conference Presentation].
+\apa{Dương Quỳnh Nga, Phạm Hà, \textbf{Phạm Hoàng Thạch} (2023). \textit{Quản lý danh mục đầu tư (HC)}. Tài liệu học tập. Đại học Mở Tp.HCM.}
 
-<!--\setlength{\leftskip}{1cm}-->
-Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2023). *Quản lý danh mục đầu tư (HC)*. Tài liệu học tập. Đại học Mở Tp.HCM.
+\apa{\textbf{Pham, T.H.} (2023). \textit{Stock Selection for Trading Strategies Based on Risk Factors: A Study of The Ho Chi Minh Stock Exchange}. [PhD Thesis, Victoria University, Melbourne, Australia].}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.** (2023). *Stock Selection for Trading Strategies Based on Risk Factors: A Study of The Ho Chi Minh Stock Exchange*. [PhD Thesis, Victoria University, Melbourne, Australia].
+\apa{Dương Quỳnh Nga, Phạm Hà, \textbf{Phạm Hoàng Thạch} (2022). \textit{Quản lý danh mục đầu tư}. Tài liệu học tập. Đại học Mở Tp.HCM.} 
 
-<!--\setlength{\leftskip}{1cm}-->
-Dương Quỳnh Nga, Phạm Hà, **Phạm Hoàng Thạch** (2022). *Quản lý danh mục đầu tư*. Tài liệu học tập. Đại học Mở Tp.HCM. 
+\apa{\textbf{Pham, T.H.}, Wickremasinghe, G., Kulendran, N. (2022). \textit{An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange (HSX) in Vietnam}. Working Paper.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Wickremasinghe, G., Kulendran, N. (2022). *An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange (HSX) in Vietnam.* Working Paper.
+\apa{\textbf{Pham, T.H.}, Wickremasinghe, G., Kulendran, N. (2022). \textit{An empirical study of multifactor asset pricing models on the Ho Chi Minh Stock Exchange (HSX) in Vietnam}. Working Paper.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.**, Wickremasinghe, G., Kulendran, N. (2022). *An empirical study of multifactor asset pricing models on the Ho Chi Minh Stock Exchange (HSX) in Vietnam.* Working Paper.
+\apa{\textbf{Pham, T.H.} (2019). \textit{A study of stock returns on the Ho Chi Minh Stock Exchange using ANOVA and multiple regressions}. Working Paper.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.** (2019). *A study of stock returns on the Ho Chi Minh Stock Exchange using ANOVA and multiple regressions.* Working Paper.
+\apa{\textbf{Pham, T.H.} (2018). \textit{An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange}. [Year 1 Thesis, Victoria University, Melbourne, Australia].} 
 
-<!--\setlength{\leftskip}{1cm}-->
-**Pham, T.H.** (2018). *An empirical study of the cross-section of stock returns on the Ho Chi Minh Stock Exchange.* [Year 1 Thesis, Victoria University, Melbourne, Australia]. 
+\apa{\textbf{Phạm Hoàng Thạch}, Dương Quỳnh Nga (2018). \textit{Quản lý danh mục đầu tư}. Slides bài giảng và video hướng dẫn môn học trực tuyến. Đại học Mở Tp.HCM.}
 
-<!--\setlength{\leftskip}{1cm}-->
-**Phạm Hoàng Thạch**, Dương Quỳnh Nga (2018). *Quản lý danh mục đầu tư*. Slides bài giảng và video hướng dẫn môn học trực tuyến. Đại học Mở Tp.HCM. 
-
-<!--\setlength{\leftskip}{1cm}-->
-**Phạm Hoàng Thạch** (2006). *Xác định các ngành công nghiệp chủ lực của tỉnh Long An* [Luận văn đại học, Đại học Kinh tế Tp.HCM, Tp.HCM, Việt Nam]. 
+\apa{\textbf{Phạm Hoàng Thạch} (2006). \textit{Xác định các ngành công nghiệp chủ lực của tỉnh Long An} [Luận văn đại học, Đại học Kinh tế Tp.HCM, Tp.HCM, Việt Nam].}
