@@ -161,7 +161,10 @@ industry %>%
                    why = details)
 ```
 
-# Software
+# Open Source Software (OSS)
+
+\apa{\textbf{Pham, T.H.} (2025). \textit{Patch: Fix org-noter-pdftools Error — void-function getf}}. GitHub.  
+\url{https://github.com/Pham-Hoang-Thach/void-function-getf-org-noter-pdftools}
 
 \apa{\textbf{Pham, T.H.} (2025). \textit{MCQ Balance Engine}}. GitHub.  
 \url{https://github.com/Pham-Hoang-Thach/mcq-balance-engine.git}
