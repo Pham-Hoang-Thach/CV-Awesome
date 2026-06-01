@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.3)  20 OCT 2025 14:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.3)  1 JUN 2026 12:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -778,8 +778,8 @@ Package hyperref Info: Link coloring OFF on input line 102.
 \headertextwidth=\skip89
 \headerphotowidth=\skip90
 \photodim=\skip91
-File: thach-vic.jpg Graphic file (type bmp)
-<thach-vic.jpg>
+File: thach.png Graphic file (type bmp)
+<thach.png>
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95116pt on input line 107.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -899,11 +899,11 @@ File: ./svg-inkscape/git_svg-tex.pdf Graphic file (type pdf)
 
 [2]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 251.
+(Font)              scaled to size 10.95pt on input line 258.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 251.
+(Font)              scaled to size 10.95pt on input line 258.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 269.
+(Font)              scaled to size 7.665pt on input line 276.
 
 
 [3]
@@ -917,10 +917,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34293 strings out of 472265
- 701564 string characters out of 5529874
- 1271548 words of memory out of 5000000
- 60149 multiletter control sequences out of 15000+600000
+ 34294 strings out of 472265
+ 701551 string characters out of 5529874
+ 1271568 words of memory out of 5000000
+ 60150 multiletter control sequences out of 15000+600000
  631189 words of font info for 131 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  131i,17n,135p,540b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
