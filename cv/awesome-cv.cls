@@ -149,6 +149,7 @@
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
 \colorlet{awesome}{awesome-red}
+\definecolor{headcolor}{HTML}{1976D2}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
@@ -427,7 +428,7 @@
         {\setlength{\photodim}{1.3cm}}%
         {\setlength{\photodim}{1.8cm}}%
       \ifthenelse{\equal{\@photoedge}{edge}}%
-        {\def\@photoborder{darkgray}}%
+        {\def\@photoborder{headcolor}}%
         {\def\@photoborder{none}}%
       \begin{tikzpicture}%
         \node[\@photoshape, draw=\@photoborder, line width=0.3mm, inner sep=\photodim, fill overzoom image=\@photo] () {};
